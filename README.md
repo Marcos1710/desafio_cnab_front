@@ -41,6 +41,10 @@ $ npm start
 # Execute a aplicação em modo de teste
 $ npm run test
 
+# Para acessar o sistema você pode utilizar o usuário padrão que foi criado ao rodar as seeds do backend
+- email: teste@gmail.com
+- senha: 123456
+
 ```
 
 ### 🛠 Rodando o backend e/ou os testes
